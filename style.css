@@ -5,7 +5,7 @@
 
 body{
   background-color: black;
-  background-size: contain;
+  background-size: cover;  
 }
 p.hw{
   font-family: Hacked, sans-serif;
@@ -24,6 +24,7 @@ p.hw{
   margin-top:20px;
   margin-left: auto;
 margin-right: auto;
+    margin-bottom: 20px;
 }
 pre{
   color: white;
@@ -43,7 +44,7 @@ img.social{
   margin:0px 30px;
 }
 .contact{
-  font-family: Hacked, sans-serif;
+  font-family: Comic Sans MS, sans-serif;
   text-align: center;
   color: white;
 }

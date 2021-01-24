@@ -45,7 +45,8 @@ img.social{
 .contact{
   font-family: Hacked, sans-serif;
   text-align: center;
-  color: white;
+  justify-content: center;
+  color: #A9A9A9;
 }
 .topnav {
     overflow: hidden;
